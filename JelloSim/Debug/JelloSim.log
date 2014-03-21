@@ -1,0 +1,135 @@
+﻿生成启动时间为 2014/2/22 1:55:48。
+     1>项目“F:\2 CIS 563\hw2\JelloSim_ZimengYang\JelloSim\JelloSim.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\JelloSim.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\DevIL1.6.7\include /I..\tinyxml /I..\glut /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt camera.cpp fps.cpp jelloMesh.cpp main.cpp vec.cpp world.cpp
+         world.cpp
+         vec.cpp
+         main.cpp
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(234): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+                 f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(314): 参见对正在编译的类 模板 实例化“math::matrix<T>”的引用
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(235): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(242): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(243): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(244): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(247): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(258): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(259): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(260): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(261): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(262): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(264): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(444): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(454): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(516): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(529): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(553): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(586): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(611): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(620): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(646): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(663): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(670): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(677): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(701): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(709): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(756): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(885): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(938): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(972): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(987): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(1153): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(1161): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\main.cpp(228): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\main.cpp(281): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\main.cpp(291): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(197) : 参见“strtok”的声明
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\main.cpp(292): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\string.h(197) : 参见“strtok”的声明
+         jelloMesh.cpp
+         fps.cpp
+         camera.cpp
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(234): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+                 f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(314): 参见对正在编译的类 模板 实例化“math::matrix<T>”的引用
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(235): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(242): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(243): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(244): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(247): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(258): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(259): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(260): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(261): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(262): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(264): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(444): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(454): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(516): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(529): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(553): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(586): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(611): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(620): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(646): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(663): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(670): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(677): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(701): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(709): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(756): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(885): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(938): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(972): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(987): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(1153): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(1161): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(234): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+                 f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\camera.cpp(306): 参见对正在编译的类 模板 实例化“math::matrix<T>”的引用
+                 with
+                 [
+                     T=double
+                 ]
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(235): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(242): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(243): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(244): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(247): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(258): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(259): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(260): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(261): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(262): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(264): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(709): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+                 f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\matrix.h(710): 编译类 模板 成员函数“math::matrix<T> math::matrix<T>::Inv(void) throw(math::matrix_error)”时
+                 with
+                 [
+                     T=double
+                 ]
+                 f:\2 cis 563\hw2\jellosim_zimengyang\jellosim\camera.cpp(306): 参见对正在编译的类 模板 实例化“math::matrix<T>”的引用
+                 with
+                 [
+                     T=double
+                 ]
+         正在生成代码...
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\2 CIS 563\hw2\JelloSim_ZimengYang\Debug\JelloSim.exe" /NOLOGO /LIBPATH:..\DevIL1.6.7\lib /LIBPATH:..\tinyxml /LIBPATH:..\glut DevIL.lib ilu.lib ilut.lib glut32.lib tinyxmld_STL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\JelloSim.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\2 CIS 563\hw2\JelloSim_ZimengYang\Debug\JelloSim.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\2 CIS 563\hw2\JelloSim_ZimengYang\Debug\JelloSim.lib" /MACHINE:X86 Debug\camera.obj
+         Debug\fps.obj
+         Debug\jelloMesh.obj
+         Debug\main.obj
+         Debug\vec.obj
+         Debug\world.obj
+         LINK : 没有找到 F:\2 CIS 563\hw2\JelloSim_ZimengYang\Debug\JelloSim.exe 或上一个增量链接没有生成它；正在执行完全链接
+         JelloSim.vcxproj -> F:\2 CIS 563\hw2\JelloSim_ZimengYang\Debug\JelloSim.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\2 CIS 563\hw2\JelloSim_ZimengYang\Debug\JelloSim.exe;#1" /manifest Debug\JelloSim.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\JelloSim.unsuccessfulbuild”。
+         正在对“Debug\JelloSim.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\2 CIS 563\hw2\JelloSim_ZimengYang\JelloSim\JelloSim.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.71

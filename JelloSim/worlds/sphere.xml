@@ -1,0 +1,18 @@
+<world>
+  <materials>
+    <material name="dark gray" density="1" friction="0.9" restitution="0.9" cr="0.2" cg="0.2" cb="0.2" />
+    <material name="light gray" density="1" friction="0.9" restitution="0.9" cr="0.7" cg="0.7" cb="0.7" />
+    <material name="dirt"         density="0" friction="0.9" restitution="0.4" cr="0.8" cg="0.6" cb="0.4" />
+  </materials>
+  <bodies>
+    <ground>
+      <bodymaterial name="dirt" />
+    </ground>
+<sphere r="0.8" x="0.5" y="-0.3" z="0.5"></sphere>
+
+
+
+  </bodies>
+</world>
+
+

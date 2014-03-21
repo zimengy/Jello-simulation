@@ -1,0 +1,29 @@
+﻿生成启动时间为 2014/2/22 1:55:41。
+     1>项目“F:\2 CIS 563\hw2\JelloSim_ZimengYang\tinyxml\tinyxmlSTL.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Debug_STL\tinyxmlSTL.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D TIXML_USE_STL /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug_STL/" /Fd".\Debug_STL/vc100.pdb" /FR".\Debug_STL\\" /Gd /TP /analyze- /errorReport:prompt tinystr.cpp tinyxml.cpp tinyxmlerror.cpp tinyxmlparser.cpp
+         tinyxmlparser.cpp
+         tinyxmlerror.cpp
+         tinyxml.cpp
+         tinystr.cpp
+         正在生成代码...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(F:\2 CIS 563\hw2\JelloSim_ZimengYang\tinyxml\.\tinyxmlSTL.lib) 与 Library 的 OutputFile 属性值(F:\2 CIS 563\hw2\JelloSim_ZimengYang\tinyxml\tinyxmld_STL.lib)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1153,5): warning MSB8012: TargetName(tinyxmlSTL) 与 Library 的 OutputFile 属性值(tinyxmld_STL)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+       Lib:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"tinyxmld_STL.lib" /NOLOGO .\Debug_STL/tinystr.obj
+         .\Debug_STL/tinyxml.obj
+         .\Debug_STL/tinyxmlerror.obj
+         .\Debug_STL/tinyxmlparser.obj
+         tinyxmlSTL.vcxproj -> F:\2 CIS 563\hw2\JelloSim_ZimengYang\tinyxml\.\tinyxmlSTL.lib
+       BscMake:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o".\Debug_STL/tinyxmlSTL.bsc" .\Debug_STL\tinystr.sbr .\Debug_STL\tinyxml.sbr .\Debug_STL\tinyxmlerror.sbr .\Debug_STL\tinyxmlparser.sbr
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug_STL\tinyxmlSTL.unsuccessfulbuild”。
+         正在对“.\Debug_STL\tinyxmlSTL.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\2 CIS 563\hw2\JelloSim_ZimengYang\tinyxml\tinyxmlSTL.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.34
