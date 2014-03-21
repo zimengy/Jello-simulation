@@ -72,9 +72,6 @@ You can also modify the following code in the main.cpp to change between differe
 
 Videos are included in the folder "Output_Videos".
 
-If you have any questions, feel free to contact me: zimengy@seas.upenn.edu
-
-
 
 
 
